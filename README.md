@@ -1,4 +1,4 @@
-### Hi there, I'm Gabriel! 👋
+## Hi there, I'm Gabriel! 👋
 
 :computer: I'm Back-End Developer!
 
