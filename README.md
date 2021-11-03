@@ -12,7 +12,7 @@
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-freitas-de-carvalho-8b7519183/)
 
 [![carvalhofg GitHub stats](https://github-readme-stats.vercel.app/api?username=carvalhofg&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dracula)](https://github.com/carvalhofg/github-readme-stats)
-[![carvalhofg GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=carvalhofg)](https://github.com/carvalhofg/github-readme-stats)
+[![carvalhofg GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=carvalhofg&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dracula)](https://github.com/carvalhofg/github-readme-stats)
 
 
 ![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
