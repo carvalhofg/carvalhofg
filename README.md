@@ -8,4 +8,4 @@
 
 :outbox_tray: 2021 Goals: Learn Kotlin and AWS.
 
-
+[![carvalhofg GitHub stats](https://github-readme-stats.vercel.app/api?username=carvalhofg)](https://github.com/carvalhofg/github-readme-stats)
